@@ -1,0 +1,2 @@
+# javaScriptProject
+ asking for help
